@@ -11,3 +11,14 @@ An MPU6050 is also included to allow the bot to detect when it is pushed around 
 <img width="928" height="725" alt="Chug_PCB_Schematic" src="https://github.com/user-attachments/assets/c74b57b5-73c5-4b6d-9c83-6f85578c00fe" />
 <img width="1167" height="867" alt="Chug_PCB_3D" src="https://github.com/user-attachments/assets/53f12cab-2e37-4b86-8c22-734e58f6eb6a" />
 <img width="1053" height="793" alt="Chug_PCB" src="https://github.com/user-attachments/assets/a86753a9-b207-48aa-bd24-1171feed413f" />
+
+#Progress:
+1. CAD - Done
+2. PCB - Done
+3. Parts Finalisation - Done
+4. Ordering Parts - Pending
+5. Code for Mobility of Bot - Working ON
+6. Setting Up server and connection between the bot and the laptop - Pending
+7. Display Code - Pending
+8. Reaction Mechanisms - Pending
+9. Code for Camera - Pending
